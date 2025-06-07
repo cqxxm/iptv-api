@@ -870,4 +870,4 @@ CCTV-5+,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/yinhe/8888888
 魅力足球,https://stream1.freetv.fun/mei-li-zu-qiu-5.ctv
 
 🕘️更新时间,#genre#
-2025-06-07 06:24:03,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2025-06-07 18:25:41,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
