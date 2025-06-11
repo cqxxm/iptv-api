@@ -38,8 +38,8 @@ CCTV-9,http://119.32.12.17:2901/udp/224.1.100.29:11111
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
 东南卫视,http://119.32.12.17:2901/udp/224.1.100.56:11111
 甘肃卫视,http://satellitepull.cnr.cn/live/wxgsws/playlist.m3u8
-河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
+河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
 
@@ -84,4 +84,4 @@ Viutv,https://cdn.iptv8k.top/dl/jrys.php?id=78&time=20240926215313&ip=111.229.25
 山东体育,http://live.xmcdn.com/live/805/64.m3u8
 
 🕘️更新时间,#genre#
-2025-06-11 06:24:26,http://qjrhc.jydjd.top:2911/udp/224.1.100.94:11111
+2025-06-11 18:28:41,http://qjrhc.jydjd.top:2911/udp/224.1.100.94:11111
