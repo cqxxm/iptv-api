@@ -3,10 +3,10 @@ CCTV-1,CCTV-1 综合
 CCTV-2,CCTV-2 财经
 CCTV-3,CCTV-3 综艺
 CCTV-4,CCTV-4 中文国际
-CCTV-4 欧洲
+CCTV-4+
 CCTV-4 美洲
-CCTV-5 体育
-CCTV-5 体育赛事
+CCTV-5
+CCTV-5+
 CCTV-6 电影
 CCTV-7 国防军事
 CCTV-8 电视剧
